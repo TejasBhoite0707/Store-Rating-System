@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+
+# Environment Variables
+.env
+
+# Build Files
+dist
+build
+
+# Logs
+logs
+*.log
+
+# Prisma
+generated
+
+# Vite
+.vite
+
+# OS Files
+.DS_Store
+Thumbs.db
